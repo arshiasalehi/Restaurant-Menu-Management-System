@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "Resturant MySQL",
+      "driver": "MySQL",
+      "server": "127.0.0.1",
+      "port": 3306,
+      "database": "resturant",
+      "username": "root",
+      "password": ""
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
